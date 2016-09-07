@@ -1,0 +1,26 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "dependencies": {
+    "messaginghub-client": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fillipehott/chatbot.git"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "fillipehott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fillipehott/chatbot/issues"
+  },
+  "homepage": "https://github.com/fillipehott/chatbot"
+}
