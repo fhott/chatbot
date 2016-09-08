@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "bot-random-word",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "lime-transport-websocket": "^2.0.0",
+    "messaginghub-client": "^2.0.1",
+    "request-promise": "^3.0.0",
+    "underscore": "^1.8.3",
+    "underscore.string": "^3.3.4"
+  }
+}
